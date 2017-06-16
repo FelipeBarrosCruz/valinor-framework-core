@@ -1,0 +1,24 @@
+{
+  "name": "valinor-framework-core",
+  "version": "1.0.0",
+  "description": "Valinor Framework Core",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no tests\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelipeBarrosCruz/valinor-framework-core.git"
+  },
+  "keywords": [
+    "valinor",
+    "framework",
+    "core"
+  ],
+  "author": "FelipeBarrosCruz <felipe.barros.pt@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/FelipeBarrosCruz/valinor-framework-core/issues"
+  },
+  "homepage": "https://github.com/FelipeBarrosCruz/valinor-framework-core#readme"
+}
